@@ -1,0 +1,3 @@
+[submodule "submodules/p-net"]
+	path = submodules/p-net
+	url = https://github.com/rtlabs-com/p-net
